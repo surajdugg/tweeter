@@ -19,6 +19,7 @@ group :development do
 	gem 'rspec-rails', '2.14.0'
 end
 group :test do
+	gem 'webrat'
 	gem 'rspec', '2.14.1'
 end
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
